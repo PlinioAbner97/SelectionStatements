@@ -1,0 +1,14 @@
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\bin\Debug\netcoreapp3.1\SelectionExerciseConsole.exe
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\bin\Debug\netcoreapp3.1\SelectionExerciseConsole.deps.json
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\bin\Debug\netcoreapp3.1\SelectionExerciseConsole.runtimeconfig.json
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\bin\Debug\netcoreapp3.1\SelectionExerciseConsole.runtimeconfig.dev.json
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\bin\Debug\netcoreapp3.1\SelectionExerciseConsole.dll
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\bin\Debug\netcoreapp3.1\SelectionExerciseConsole.pdb
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.AssemblyInfo.cs
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.dll
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.pdb
+C:\Users\abner\source\repos\SelectionExercise\SelectionExerciseConsole\obj\Debug\netcoreapp3.1\SelectionExerciseConsole.genruntimeconfig.cache
